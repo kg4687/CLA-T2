@@ -5,6 +5,7 @@
 
 int palindrome(long int v)
 {
+
  long int reverse,n,i,j;
     n=v;
     while (n != 0)
